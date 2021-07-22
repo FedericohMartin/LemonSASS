@@ -1,0 +1,9 @@
+@use 'vars.scss' as v;
+
+.header {
+    background-color: v.$color;
+}
+
+h1 {
+    color: v.$color;
+}
